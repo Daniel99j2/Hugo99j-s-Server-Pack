@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "hugo99j:item/underwater_tnt_bottom",
+    "side": "hugo99j:item/underwater_tnt_side",
+    "top": "hugo99j:item/underwater_tnt_top"
+  }
+}
