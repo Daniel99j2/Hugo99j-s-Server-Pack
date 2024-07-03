@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/tnt",
+  "overrides": [
+	{
+		"predicate": {
+			"custom_model_data": 1
+		},
+		"model": "hugo99j:item/underwater_tnt"
+	}
+  ]
+}
